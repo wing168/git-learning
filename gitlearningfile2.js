@@ -17,4 +17,5 @@ const bubbleSort = (arr) => {
 }
 
 const field = {name: 'Dave', age: 34};
+const field2 = {name: 'John', age: 23};
 

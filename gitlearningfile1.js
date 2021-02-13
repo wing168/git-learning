@@ -4,3 +4,4 @@ const isLoading = false;
 const whatIf = 'this is a string';
 const newField = 'new field';
 const newField2 = 'new field 2';
+const newField3 = 'new field 3';
